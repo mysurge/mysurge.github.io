@@ -2,4 +2,4 @@
 
 Coming soon
 
-Follow us on instagram (@mysurgeco)[http://instagram.com/mysurgeco].
+Follow us on instagram [@mysurgeco](http://instagram.com/mysurgeco).
