@@ -44,9 +44,9 @@ Colors:
 
 :root{
 	--accent-color: #00bbff;
-	/*--accent-color-dark: #0037ff;*/
-	--accent-color-dark: #121c2e;
-	--dark-background-color: #121c2e;
+	/*--accent-color-dark: #121c2e;*/
+	--accent-color-dark: #141414;
+	--dark-background-color: var(--accent-color-dark);
 }
 
 body,
