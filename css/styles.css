@@ -45,8 +45,8 @@ Colors:
 :root{
 	--accent-color: #00bbff;
 	/*--accent-color-dark: #0037ff;*/
-	--accent-color-dark: #121b2e;
-	--dark-background-color: #121b2e;
+	--accent-color-dark: #121c2e;
+	--dark-background-color: #121c2e;
 }
 
 body,
@@ -73,6 +73,10 @@ body, p {
 .p-heading {
 	margin-bottom: 3.75rem;
 	text-align: center;
+}
+
+.hero-img{
+	max-width: 70% !important;
 }
 
 .li-space-lg li {
@@ -138,6 +142,10 @@ a.turquoise {
 
 a.white {
 	color: #fff;
+}
+
+.turquoise {
+	color: var(--accent-color);
 }
 
 .testimonial-text {
@@ -2116,9 +2124,5 @@ a:hover.back-to-top {
 		margin-left: 1.75rem;
 	}
 	/* end of extra pages */
-
-	.hero-img{
-		max-width: 70% !important;
-	}
 }
 /* end of min-width width 1200px */
